@@ -12132,3 +12132,27 @@ Make sure 'WBP_PauseMenu' has been compiled for  Resume from Button
 [2026.02.17-13.20.50:348][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2026.02.17-13.20.50:381][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2026.02.17-13.20.50:395][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.234 ms (total: 33.5 sec)
+[2026.02.17-13.21.45:414][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.02.17-13.21.45:419][281]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
+[2026.02.17-13.21.45:419][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/UAL1_Standard/SkeletalMeshes/Idle_Loop] ([1] browsable assets)...
+[2026.02.17-13.21.45:419][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/UAL1_Standard/SkeletalMeshes/Idle_Loop]
+[2026.02.17-13.21.45:433][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/UAL1_Standard/SkeletalMeshes/Idle_Loop_Auto9
+[2026.02.17-13.21.45:433][281]LogSavePackage: Moving '../../../../../Projects/StickmanAdventures/StickmanAdventures/Saved/Idle_Loop_Auto91E57BEE44D1A5B01E4C4BE9D442A0AD0.tmp' to '../../../../../Projects/StickmanAdventures/StickmanAdventures/Saved/Autosaves/Game/Characters/UAL1_Standard/SkeletalMeshes/Idle_Loop_Auto9.uasset'
+[2026.02.17-13.21.45:434][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/UAL1_Standard/SkeletalMeshes/Sprint_Loop] ([1] browsable assets)...
+[2026.02.17-13.21.45:434][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/UAL1_Standard/SkeletalMeshes/Sprint_Loop]
+[2026.02.17-13.21.45:449][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/UAL1_Standard/SkeletalMeshes/Sprint_Loop_Auto9
+[2026.02.17-13.21.45:449][281]LogSavePackage: Moving '../../../../../Projects/StickmanAdventures/StickmanAdventures/Saved/Sprint_Loop_Auto9BBC91D60452B310AB5EBC4B41D4607EE.tmp' to '../../../../../Projects/StickmanAdventures/StickmanAdventures/Saved/Autosaves/Game/Characters/UAL1_Standard/SkeletalMeshes/Sprint_Loop_Auto9.uasset'
+[2026.02.17-13.21.45:450][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/UAL1_Standard/SkeletalMeshes/Walk_Loop] ([1] browsable assets)...
+[2026.02.17-13.21.45:450][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/UAL1_Standard/SkeletalMeshes/Walk_Loop]
+[2026.02.17-13.21.45:466][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/UAL1_Standard/SkeletalMeshes/Walk_Loop_Auto9
+[2026.02.17-13.21.45:466][281]LogSavePackage: Moving '../../../../../Projects/StickmanAdventures/StickmanAdventures/Saved/Walk_Loop_Auto9CBD124D74A291AB2A0C064BD425F46A4.tmp' to '../../../../../Projects/StickmanAdventures/StickmanAdventures/Saved/Autosaves/Game/Characters/UAL1_Standard/SkeletalMeshes/Walk_Loop_Auto9.uasset'
+[2026.02.17-13.21.45:467][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished] ([1] browsable assets)...
+[2026.02.17-13.21.45:467][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished]
+[2026.02.17-13.21.45:478][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished_Auto9
+[2026.02.17-13.21.45:478][281]LogSavePackage: Moving '../../../../../Projects/StickmanAdventures/StickmanAdventures/Saved/M_Wood_Floor_Walnut_Polished_AutFBA375AF4FF514FBA3E6959B523E3770.tmp' to '../../../../../Projects/StickmanAdventures/StickmanAdventures/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished_Auto9.uasset'
+[2026.02.17-13.21.45:478][281]LogFileHelpers: Auto-saving content packages took 0.060
+[2026.02.17-13.22.17:338][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-13.22.17:422][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.17-13.22.17:453][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.17-13.22.17:480][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.02.17-13.22.17:495][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.761 ms (total: 33.6 sec)
